@@ -46,8 +46,8 @@ Here are some of the projects I’ve worked on:
 I’m always open to collaborating on interesting projects or discussing AI, ML, and DL. Feel free to reach out to me via:
 
 - **Email**: [adelo7577@gmail.com]
-- LinkedIn: linkedin.com/in/omar-adel-hanafi-733b3229a
-- 
+- **LinkedIn**: [linkedin.com/in/omar-adel-hanafi-733b3229a](https://www.linkedin.com/in/omar-adel-hanafi-733b3229a)
+
 ## Thanks for Visiting! 🙏
 
 Thank you for stopping by my GitHub profile! I hope you find my projects and contributions interesting. Don’t hesitate to star my repositories or fork them if you find them useful. Let’s learn and grow together in the exciting field of AI!
